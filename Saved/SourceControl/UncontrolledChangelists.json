@@ -1,0 +1,28 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Anton/Documents/Unreal Projects/Geo/Content/Levels/Earth.umap",
+				"C:/Users/Anton/Documents/Unreal Projects/Geo/Content/Textures/8k_earth_clouds.uasset",
+				"C:/Users/Anton/Documents/Unreal Projects/Geo/Content/Textures/8k_earth_daymap.uasset",
+				"C:/Users/Anton/Documents/Unreal Projects/Geo/Content/Textures/8k_earth_nightmap.uasset",
+				"C:/Users/Anton/Documents/Unreal Projects/Geo/Content/Textures/8k_earth_normal_map.uasset",
+				"C:/Users/Anton/Documents/Unreal Projects/Geo/Content/Textures/8k_earth_specular_map.uasset",
+				"C:/Users/Anton/Documents/Unreal Projects/Geo/Content/Textures/8k_stars.uasset",
+				"C:/Users/Anton/Documents/Unreal Projects/Geo/Content/Levels/_GENERATED/Anton/Sphere_8DB4FD8E.uasset",
+				"C:/Users/Anton/Documents/Unreal Projects/Geo/Content/Materials/M_Earth.uasset",
+				"C:/Users/Anton/Documents/Unreal Projects/Geo/Content/Materials/M_Clouds.uasset",
+				"C:/Users/Anton/Documents/Unreal Projects/Geo/Content/Materials/M_Stars.uasset",
+				"C:/Users/Anton/Documents/Unreal Projects/Geo/Content/BP_OrbitCamera.uasset",
+				"C:/Users/Anton/Documents/Unreal Projects/Geo/Content/IA_Rotate.uasset",
+				"C:/Users/Anton/Documents/Unreal Projects/Geo/Content/IA_Look.uasset",
+				"C:/Users/Anton/Documents/Unreal Projects/Geo/Content/IMC_OrbitCamera.uasset",
+				"C:/Users/Anton/Documents/Unreal Projects/Geo/Content/IA_Zoom.uasset",
+				"C:/Users/Anton/Documents/Unreal Projects/Geo/Content/BP_PlayerController.uasset"
+			]
+		}
+	]
+}
